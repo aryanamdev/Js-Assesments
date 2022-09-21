@@ -1,0 +1,1 @@
+document.querySelector(".key-feature-tab__cta-wrap .cta--contained").innerText = "Checkout";
