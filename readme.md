@@ -16,7 +16,7 @@
 
 ### Solution
 
-![solution](./01%20js.png)
+![solution](/code%20snippets/01%20js.png)
 
 ### Output
 
@@ -33,7 +33,7 @@
         
 ### Solution
 
-![solution](./02%20js.png)
+![solution](/code%20snippets/02%20js.png)
 
 ### Output
 
@@ -55,7 +55,7 @@
         
 ### Solution
 
-![solution](./03%20js.png)
+![solution](/code%20snippets/03%20js.png)
 
 ### Output
 
@@ -77,7 +77,7 @@
         
 ### Solution
 
-![solution](./04%20js.png)
+![solution](/code%20snippets/04%20js.png)
 
 ### Output
 
@@ -99,7 +99,7 @@
         
 ### Solution
 
-![solution](./05%20js.png)
+![solution](/code%20snippets/05%20js.png)
 
 ### Output
 
@@ -121,7 +121,7 @@
         
 ### Solution
 
-![solution](./06%20js.png)
+![solution](/code%20snippets/06%20js.png)
 
 ### Output
 
@@ -144,7 +144,7 @@
         
 ### Solution
 
-![solution](./07%20js.png)
+![solution](/code%20snippets/07%20js.png)
 
 ### Output
 
@@ -166,7 +166,7 @@
         
 ### Solution
 
-![solution](./08%20js.png)
+![solution](/code%20snippets/08%20js.png)
 
 ### Output
 
@@ -188,7 +188,7 @@
         
 ### Solution
 
-![solution](./09%20js.png)
+![solution](/code%20snippets/09%20js.png)
 
 ### Output
 
@@ -210,7 +210,7 @@
         
 ### Solution
 
-![solution](./10%20js.png)
+![solution](/code%20snippets/10%20js.png)
 
 ### Output
 
@@ -232,7 +232,7 @@
         
 ### Solution
 
-![solution](./11%20js.png)
+![solution](/code%20snippets/11%20js.png)
 
 ### Output
 
@@ -254,7 +254,7 @@
         
 ### Solution
 
-![solution](./12%20js.png)
+![solution](/code%20snippets/12%20js.png)
 
 ### Output
 
@@ -277,7 +277,7 @@ Target the top description and change “Matching developers with great companie
         
 ### Solution
 
-![solution](./13%20js.png)
+![solution](/code%20snippets/13%20js.png)
 
 ### Output
 
@@ -299,7 +299,7 @@ Target the top description and change “Matching developers with great companie
 
 ### Solution
 
-![solution](./14%20js.png)
+![solution](/code%20snippets/14%20js.png)
 
 ### Output
 
@@ -321,7 +321,7 @@ Target the top description and change “Matching developers with great companie
         
 ### Solution
 
-![solution](./15%20js.png)
+![solution](/code%20snippets/15%20js.png)
 
 ### Output
 
@@ -343,7 +343,7 @@ Target the top description and change “Matching developers with great companie
         
 ### Solution
 
-![solution](./16%20js.png)
+![solution](/code%20snippets/16%20js.png)
 
 ### Output
 
@@ -365,7 +365,7 @@ Target the top description and change “Matching developers with great companie
         
 ### Solution
 
-![solution](./17%20js.png)
+![solution](/code%20snippets/17%20js.png)
 
 ### Output
 
@@ -387,7 +387,7 @@ Target the top description and change “Matching developers with great companie
         
 ### Solution
 
-![solution](./18%20js.png)
+![solution](/code%20snippets/18%20js.png)
 
 ### Output
 
@@ -409,7 +409,7 @@ Target the top description and change “Matching developers with great companie
         
 ### Solution
 
-![solution](./19%20js.png)
+![solution](/code%20snippets/19%20js.png)
 
 ### Output
 
@@ -431,7 +431,7 @@ Target the top description and change “Matching developers with great companie
         
 ### Solution
 
-![solution](./20%20js.png)
+![solution](/code%20snippets/20%20js.png)
 
 ### Output
 
