@@ -1,0 +1,1 @@
+document.querySelector('div.col-xl-4 a.btn').style.backgroundColor = 'blue';
